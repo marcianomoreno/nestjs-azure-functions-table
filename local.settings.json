@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=nestaf1storage;AccountKey=dEphGildB2JGr9yYTvFXqMRtjN1zkgfjNIYx6zr7yJvOOpEGfBbFn/HZkar3/M8j2GwZQzEWxDA/XePpYTb0GA==",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~16",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=nestaf1storage;AccountKey=dEphGildB2JGr9yYTvFXqMRtjN1zkgfjNIYx6zr7yJvOOpEGfBbFn/HZkar3/M8j2GwZQzEWxDA/XePpYTb0GA==",
+    "WEBSITE_CONTENTSHARE": "nestaf1functions19e13fe64d12",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "7f37816d-e9dd-4249-ba1c-88a7af069832",
+    "WEBSITE_HTTPLOGGING_RETENTION_DAYS": "3",
+    "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=nestaf1storage;AccountKey=dEphGildB2JGr9yYTvFXqMRtjN1zkgfjNIYx6zr7yJvOOpEGfBbFn/HZkar3/M8j2GwZQzEWxDA/XePpYTb0GA==;EndpointSuffix=core.windows.net"
+  }
+}
